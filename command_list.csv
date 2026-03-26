@@ -1,0 +1,614 @@
+    1  exit
+    2  pwd
+    3  exit
+    4  pwd
+    5  ls
+    6  cd
+    7  cd desktop
+    8  pwd
+    9  ls
+   10  pwd
+   11  cd..
+   12  cd ..
+   13  pwd
+   14  ls
+   15  cd Desktop
+   16  pwd
+   17  ls
+   18  cd ..
+   19  pwd
+   20  ls
+   21  pwd
+   22  ls
+   23  cd Desktop
+   24  pwd
+   25  ls
+   26  cd untitled folder 2
+   27  cd For ebay
+   28  cd For Ebay
+   29  cd Dorama
+   30  pwd
+   31  cd ~
+   32  pwd
+   33  clear
+   34  git --version
+   35  git --version
+   36  clear
+   37  git config --global user.name olena
+   38  git config --global user.email"olenasemenovych@gmail.com"
+   39  git config --get user.name
+   40  git config --get user.email
+   41  git config --global user.email olenasemenovych@gmail.com
+   42  git config --get user.email
+   43  ssh-keygen -t rsa -b 4096 -C olenasemenovych@gmail.com
+   44  eval "$(ssh-agent -s)"
+   45  ssh-add --apple-use-keychain ~/.ssh/id_rsa 
+   46  cat ~/.ssh/id_rsa.pub
+   47  pwd
+   48  ls
+   49  cd Desktop
+   50  pwd
+   51  ls
+   52  cd Projects
+   53  pwd
+   54  git clone git@github.com:Elenasem99/my-first-project.git
+   55  pwc
+   56  list
+   57  ls
+   58  cd my-first-project
+   59  pwc
+   60  code .
+   61  pwd
+   62  code .
+   63  clea
+   64  clear
+   65  pwd
+   66  code .
+   67  ssh-keygen -t rsa -b 4096 -C olenasemenovych@gmail.com
+   68  eval "$(ssh-agent -s)"
+   69  ssh-add --apple-use-keychain ~/ . ssh/id_rsa
+   70  wpd
+   71  pwd
+   72  ls
+   73  cd Desktop
+   74  pwd
+   75  ls
+   76  cd Projects
+   77  pwd
+   78  ls
+   79  cd my-first-project
+   80  pwd
+   81  code .
+   82  code .
+   83  git status
+   84  git status
+   85  git statut
+   86  git status
+   87  git add --all
+   88  git status
+   89  git status
+   90  git add --all
+   91  git status
+   92  git restore --staged secret.md
+   93  git status
+   94  git status
+   95  git add --all
+   96  git status
+   97  git commit -m "add initial files"
+   98  git status
+   99  git status
+  100  git add --all
+  101  git status
+  102  git commit -m "update todo list"
+  103  git status
+  104  git log
+  105  q
+  106  git status
+  107  git push
+  108  git status
+  109  git status
+  110  git add --all
+  111  git status
+  112  git commit -m "add index file"
+  113  git push
+  114  pwd
+  115  cd Desktop
+  116  pwd
+  117  ls
+  118  cd Projets
+  119  cd Projects
+  120  pwd
+  121  git clone git@github.com:Elenasem99/goit-markup-hw-01.git
+  122  pwd
+  123  ls
+  124  cd goit-markup-hw-01
+  125  pwd
+  126  ls
+  127  cd..
+  128  cd ..
+  129  pwd
+  130  ls
+  131  git add --all
+  132  git commit -m "add makeup header"
+  133  git push
+  134  git add --all
+  135  git commit -m "add strengths"
+  136  git push
+  137  git add --all
+  138  git commit -m "add photos"
+  139  git push
+  140  git add --all
+  141  git commit -m "add makeup footer"
+  142  git push
+  143  git add .
+  144  git commit -m "add styles header"
+  145  git push
+  146  git add .
+  147  git commit -m"add team"
+  148  git push
+  149  git add .
+  150  git add .
+  151  git commit -m "add styles footer"
+  152  git push
+  153  git add .
+  154  git commit -m "add styles portfolio"
+  155  git push
+  156  git add .
+  157  git commit -m "add styles footer"
+  158  git push
+  159  git all .
+  160  git add .
+  161  git commit -m "add styles footer"
+  162  git push
+  163  git add .
+  164  git commit -m "add styles button"
+  165  git push
+  166  git add .
+  167  git commit -m "add corrections"
+  168  git push
+  169  git add .
+  170  git commt -m "add corrections"
+  171  git commit -m "add corrections"
+  172  git push
+  173  git clone git@github.com:Elenasem99/goit-markup-hw-03.git
+  174  code.
+  175  code .
+  176  code
+  177  code .
+  178  git clone git@github.com:Elenasem99/goit-markup-hw-02.git
+  179  code .
+  180  git add .
+  181  git commit -m "add styles header"
+  182  git push
+  183  git add .
+  184  git commit -m "add corrections header"
+  185  git push
+  186  git add .
+  187  git commit -m "add styles main"
+  188  git push
+  189  git add .
+  190  git commit -m "add styles strengths"
+  191  git push
+  192  git add .
+  193  git commit -m "add corrections"
+  194  git push
+  195  git add .
+  196  git commit -m "add styles team"
+  197  git push
+  198  git add .
+  199  git commit -m "add styles portfolio"
+  200  git push
+  201  git add .
+  202  git commit -m "add corrections"
+  203  git push
+  204  git add .
+  205  git commit -m "add corrections"
+  206  git push
+  207  git add .
+  208  git commit -m "add corrections"
+  209  git push
+  210  git add .
+  211  git commit -m "add styles footer"
+  212  git push
+  213  git add .
+  214  git commit -m "hw4"
+  215  git push
+  216  git add .
+  217  git commit -m "add icons"
+  218  git push
+  219  git add .
+  220  git commit -m "add social icons"
+  221  git push
+  222  git add .
+  223  git commit -m "add portfolio cover"
+  224  git push
+  225  git add .
+  226  git commit -m "add footer"
+  227  git push
+  228  git add .
+  229  git commit -m "add corrections"
+  230  git push
+  231  git add .
+  232  git commit -m "add corrections"
+  233  git push
+  234  git add .
+  235  git commit -m "add corrections"
+  236  git push
+  237  git add .
+  238  git commit -m "add corrections"
+  239  git push
+  240  git add .
+  241  git commit -m "add footer"
+  242  git push
+  243  git clone git@github.com:Elenasem99/goit-markup-hw-04.git
+  244  git clone git@github.com:Elenasem99/goit-markup-hw-05.git
+  245  git add .
+  246  git commit -m "add footer-form"
+  247  git push
+  248  git add .
+  249  git commit -m "add footer-icon"
+  250  git push
+  251  git add .
+  252  git commit -m "add modal styles"
+  253  git push
+  254  git add .
+  255  git commit -m "add corrections"
+  256  git push
+  257  git add .
+  258  git commit -m "add corrections"
+  259  git push
+  260  git add .
+  261  git commit -m "add corrections"
+  262  git push
+  263  git add .
+  264  git add -m "add corrections"
+  265  git commit -m "add corrections"
+  266  git push
+  267  git add .
+  268  git commit -m "add btn styles"
+  269  git push
+  270  git clone git@github.com:Elenasem99/goit-markup-hw-06.git
+  271  git add .
+  272  git commit -m "add mobile-menu"
+  273  git push
+  274  git add .
+  275  git commit -m "add main mob"
+  276  git push
+  277  git add .
+  278  git commit -m "add main"
+  279  git push
+  280  git add .
+  281  git push -m "add strengths mob"
+  282  git commit -m "add strengths"
+  283  git push
+  284   git add .
+  285  git commit -m "add corrections"
+  286  git push
+  287  git add .
+  288  git commit -m "add strengths"
+  289  git push
+  290  git add .
+  291  git commit -m "add photos"
+  292  git push
+  293  git add .
+  294  git commit -m "add edit"
+  295  git push
+  296  git add .
+  297  git commit -m "add team screens"
+  298  git push
+  299  git add .
+  300  git commit -m "add pictures"
+  301  git push
+  302  git add .
+  303  git commit -m "add styles"
+  304  git push
+  305  git add .
+  306  git commit -m "add footer"
+  307  git push
+  308  git add .
+  309  git commit -m "add footer"
+  310  git push
+  311  git add .
+  312  git commit -m "add footer tab"
+  313  git push
+  314  git add .
+  315  git commit -m "add changes"
+  316  git push
+  317  git add .
+  318  git commit -m "add edit modal"
+  319  git push
+  320  git add .
+  321  git commit -m "add edit"
+  322  git push
+  323  git add .
+  324  git commit -m "add modal"
+  325  git push
+  326  git add .
+  327  git commit -m "add margin"
+  328  git push
+  329  git add .
+  330  git commit -m "add edit footer tab"
+  331  git push
+  332  git add .
+  333  git commit -m "add edit footer desk"
+  334  git push
+  335  git add .
+  336  git commit -m "add calc"
+  337  git push
+  338  git clone git@github.com:Martv1n/project-MustWatch.git
+  339  node -v
+  340  git checkout -b contact-us
+  341  git add .
+  342  git commit -m "add contact-us"
+  343  git add .
+  344  git commit "add contact-us structure"
+  345  git commit -m "add contact-us"
+  346  git push
+  347  git push --set-upstream origin contact-us
+  348  git add .
+  349  git commit -m "add styles"
+  350  git push
+  351  git pull
+  352  npm install
+  353  npm run dev
+  354  git add .
+  355  git commit -m "add styles"
+  356  git push
+  357  git add .
+  358  git commit -m "mob done"
+  359  git push
+  360  git add .
+  361  git commit -m "mob done"
+  362  git push
+  363  git add .
+  364  git commit -m "add styles tab"
+  365  git push
+  366  git add .
+  367  git commit -m "add styles desk"
+  368  git push
+  369  git pull
+  370  git pull
+  371  git add .
+  372  git commit -m "edit"
+  373  git push
+  374  git add .
+  375  git commit -m "edit"
+  376  git push
+  377  git add.
+  378  git add .
+  379  git commit -m "another try"
+  380  git push
+  381  git add .
+  382  git commit -m "edit tab and desk"
+  383  git push
+  384  git pull
+  385  git add .
+  386  git commit -m "edit"
+  387  git push
+  388  git add .
+  389  git commit -m "edit"
+  390  git push
+  391  npm run dev
+  392  git add .
+  393  git commit -m "edit size"
+  394  git push
+  395  nmp run dev
+  396  npm run dev
+  397  git add .
+  398  git commit -m "final edit"
+  399  git push
+  400  npm run dev
+  401  git pull
+  402  npm run dev
+  403  npm run dev
+  404  git add .
+  405  git commit -m "add validation form"
+  406  git push
+  407  npm run dev
+  408  git add .
+  409  git commit -m "new files"
+  410  git push
+  411  git add .
+  412  git commit -m "task1"
+  413  git push
+  414  git add .
+  415  git commit -m "task2"
+  416  git push
+  417  git add .
+  418  git commit -m "task4"
+  419  git push
+  420  git commit -m "task3"
+  421  git clone git@github.com:Elenasem99/goit-js-hw-01.git
+  422  git clone git@github.com:Elenasem99/goit-js-hw-02.git
+  423  git add .
+  424  git commit -m "add task1"
+  425  git push
+  426  git add .
+  427  git commit -m "add task2"
+  428  git push
+  429  git add .
+  430  git commit -m "add task3"
+  431  git push
+  432  git add .
+  433  git commit -m "add task4"
+  434  git push
+  435  git clone git@github.com:Elenasem99/blended_js.git
+  436  git add .
+  437  git commit - m "add tasks"
+  438  git commit -m "add tasks"
+  439  git push
+  440  git clone git@github.com:Elenasem99/blended_js.git
+  441  git add .
+  442  git commit -m "add task1"
+  443  git push
+  444  git add .
+  445  git commit -m "add task2"
+  446  git push
+  447  git add .
+  448  git commit -m "add task3"
+  449  git push
+  450  git clone git@github.com:Elenasem99/goit-js-hw-03.git
+  451  git clone git@github.com:Elenasem99/goit-js-hw-04.git
+  452  git add .
+  453  git commit -m "add task1"
+  454  git push
+  455  git add .
+  456  git commit -m "add task2"
+  457  git push
+  458  git add .
+  459  git commit -m "add task3"
+  460  git push
+  461  git clone git@github.com:Elenasem99/goit-js-hw-05.git
+  462  git add .
+  463  git commit -m "add task1"
+  464  git push
+  465  git add .
+  466  git commit -m "add task2"
+  467  git push
+  468  git add .
+  469  git commit -m "add task3"
+  470  git push
+  471  git add .
+  472  git commit -m "add task4"
+  473  git push
+  474  git clone git@github.com:Elenasem99/goit-js-hw-06.git
+  475  git add .
+  476  git commit -m "add task1"
+  477  git push
+  478  git add .
+  479  git commit -m "add task2"
+  480  git push
+  481  git add .
+  482  git comit -m "add task3"
+  483  git commit -m "add task3"
+  484  git push
+  485  brew install --cask dbeaver-community
+  486  brew install --cask dbeaver-community
+  487  git --version
+  488  man ls
+  489  ls
+  490  cd Desktop
+  491  ls
+  492  cd ..
+  493  ls
+  494   pwd
+  495  cd ..
+  496  cd Desktop
+  497  cd Desktop
+  498  pwd
+  499  cd Documents\ For\ Uni
+  500  cd..
+  501  cd ..
+  502  mkdir Lesson
+  503  ls
+  504  mkdir Lesson2
+  505  ls
+  506  touch empty.txt
+  507  ls
+  508  vim empty.txt
+  509  nano empty.txt
+  510  cat empty.txt
+  511  cp empty.txt
+  512  pwd
+  513  cp /Users/elenasemenovych/Desktop/empty.txt /Users/elenasemenovych/Downloads
+  514  mv /Users/elenasemenovych/Desktop/empty.txt /Users/elenasemenovych/Downloads
+  515  rm empty.txt
+  516   cd..
+  517  cd ..
+  518  cd Downloads
+  519  ls
+  520  rm empty.txt
+  521  cd ..
+  522  ping google.com
+  523  date
+  524  system_profier
+  525  system_profiler
+  526  clearccleaclearclear
+  527  clear
+  528  df -h
+  529  ifconfig
+  530  clear
+  531  whoami
+  532  cd Desktop
+  533  ls
+  534  touch test.txt
+  535  chmod 777 test.txt
+  536  clear
+  537  cd Git
+  538  git config --global user.name "Olena Semenovych"
+  539  git cinfig --global user.email olenasemenovych@gmail.com
+  540  git config --global user.email olenasemenovych@gm
+  541  pwd
+  542  git clone https://github.com/Elenasem99/Lesson3.1.git
+  543  git config --global user.name "Olena Semenovych"
+  544  git config --global user.email olenasemenovych@gmail.com
+  545  pwd
+  546  git clone https://github.com/Elenasem99/Lesson3.1.git
+  547  cd Lesson3.1
+  548  git status
+  549  touch New.txt
+  550  git status
+  551  git add New.txt
+  552  git status
+  553  git commit -m "New file created"
+  554  git status
+  555  git log
+  556  git branch
+  557  git checkout -b new_branch
+  558  git branch
+  559  git checkout main
+  560  git branch
+  561  git checkout new_branch
+  562  nano New.txt
+  563  git status
+  564  git checkout main
+  565  git merge new_branch
+  566  git branch
+  567  git status
+  568  git commit 
+  569  git checkout new_branch
+  570  git merge main
+  571  git status
+  572  git commit
+  573  git checkout main
+  574  git status
+  575  git commit
+  576  git add New.txt
+  577  git status
+  578  git commit -m "New modified"
+  579  git push
+  580  cd ..
+  581  cd Git_hw
+  582  -c && rm ~/.bash_history
+  583  history -c && rm ~/.bash_history
+  584  history -c
+  585  history -c && rm ~/.bash_history
+  586  clear
+  587  git condig --global user.name "Olena Semenovych"
+  588  git config --global user.name "Olena Semenovych"\n
+  589  git config --global user.email olenasemenovych@gmail.com
+  590  git clone https://github.com/Elenasem99/HW_10.git
+  591  cd HW_10
+  592  touch text_ignore.txt
+  593  nano .gitignore
+  594  nano .gitignore 
+  595  git status
+  596  git add .
+  597  git commit -m "file edit"
+  598  touch main_test.txt
+  599  git add .
+  600  git commit -m "add main_test"
+  601  git checkout -b develop
+  602  touch develop_test.txt
+  603  git add .
+  604  git commit -m "add develop_test"
+  605  nano develop_test.txt file
+  606  git status
+  607  git add .
+  608  git commit -m "add changes"
+  609  git checkout main
+  610  git merge develop
+  611  git log
+  612  history 0 > command_list.csv
+  613  git add .
+  614  git push
